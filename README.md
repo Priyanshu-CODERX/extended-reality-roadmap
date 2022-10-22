@@ -8,10 +8,12 @@
 </div>
 
 # Extended Reality Roadmap
-* This roadmap covers every essential topics related to Extended Reality Development in form of theories and practical projects.
+* Extended Reality is a vast domain of immersive and spatial computing and can get really hard to find the best resources for learning Extended Reality. This repository compiles the best possible resources on XR out there, this is a very detailed and comprehensive roadmap with loads of amazing resources to learn from.
 
-* This roadmap is designed in such a way that anyone who doesn't have any experience with developing applications can start developing Augmented, Virtual and Mixed Reality applications without any hassle.
+* It contains the best resources to learn Augmented Reality, Virtual Reality and Mixed Reality from scratch along with all the necessary tools such as Blender, Unity Engine, Vuforia, Spark AR, Lens Studio, AR Core and AR Foundation.
 
-* The roadmap will help you get started with Extended Reality development by following a level based approach. 
+* This roadmap is designed in such a way that anyone who doesn't have any experience with developing softwares can start developing Augmented Reality, Virtual Reality and Mixed Reality applications without any extra hassle.
+
+* The roadmap will help you get started with Extended Reality development by following a level based approach and it's recommended to everyone to go through the prerequisite content before hoping onto learning to develop XR Applications. 
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
