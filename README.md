@@ -14,7 +14,7 @@
 
 * This roadmap is designed in such a way that anyone who doesn't have any experience with developing softwares can start developing Augmented Reality, Virtual Reality and Mixed Reality applications without any extra hassle.
 
-* The roadmap will help you get started with Extended Reality development by following a level based approach and it's recommended to everyone to go through the prerequisite content before hoping onto learning to develop XR Applications. 
+* The roadmap will help you get started with Extended Reality development by following a level based approach and it's recommended to everyone to go through the prerequisite content before hopping onto learning to develop XR Applications. 
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
 
