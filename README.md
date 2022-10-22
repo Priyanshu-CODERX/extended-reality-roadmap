@@ -10,7 +10,7 @@
 # Extended Reality Roadmap
 * This roadmap covers every essential topics related to Extended Reality Development in form of theories and practical projects.
 
-* This roadmap is designed in such a way that anyone who doesn't have any experience with developing applications can start developing applications for Extended Reality without any hassle.
+* This roadmap is designed in such a way that anyone who doesn't have any experience with developing applications can start developing Augmented, Virtual and Mixed Reality applications without any hassle.
 
 * The roadmap will help you get started with Extended Reality development by following a level based approach. 
 
