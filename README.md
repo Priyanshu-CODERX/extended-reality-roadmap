@@ -1,6 +1,9 @@
-<div align="center" ><img width="600px" src="./assets/anterndark.svg" ></img></div>
-<center><h3><b>One-Stop Solution for Learning Extended Reality</b></h3></center>
-<center>Learn from the best of best through [Antern](https://antern.co/) amazing courses</center>
+<div align="center" >
+    <img width="600px" src="./assets/anterndark.svg" ></img>
+    <h3 align="cenrer"><b>One-Stop Solution for Learning Extended Reality</b></h3>
+Learn from the best of best through [Antern](https://antern.co/) amazing courses
+</div>
+
 
 # Extended Reality Roadmap
 This roadmap covers every important aspect of developing efficient and best Extended Reality applications by following the best industrial practices.
