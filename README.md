@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a target="_blank" href="https://antern.co/">
-    <img src="./assets/anterndark.svg" alt="Logo" width="400">
+    <img src="./assets/antern.png" alt="Logo" width="600px">
   </a>
 
   <h3 align="center">One-Stop solution for learning Extended Reality from scratch</h3>
