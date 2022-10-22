@@ -1,17 +1,10 @@
 <br />
 <div align="center">
-  <a href="https://antern.co/">
+  <a target="_blank" href="https://antern.co/">
     <img src="./assets/anterndark.svg" alt="Logo" width="400">
   </a>
 
-  <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
-
-  <p align="center">
-    All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps.
-    <br />
-    <a href="https://antern.co/"><strong>Visit Antern</strong></a>
-    <br />
-  </p>
+  <h3 align="center">One-Stop solution for learning Extended Reality from scratch</h3>
 </div>
 
 # Extended Reality Roadmap
