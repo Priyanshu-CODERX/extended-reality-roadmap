@@ -17,3 +17,11 @@
 * The roadmap will help you get started with Extended Reality development by following a level based approach and it's recommended to everyone to go through the prerequisite content before hoping onto learning to develop XR Applications. 
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
+
+# Prerequisites
+| Topic      | Resources |
+| ----------- | ----------- |
+| Fundamentals of Programming with C#      | <a href="_blank" href="https://youtu.be/0QUgvfuKvWU" >C# Fundamentals for Beginners</a>, <a href="#" >Learn C# in One Day and Learn It Well by Jamie Chan (Book)</a>|
+| Fundamentals of Unity Engine   | <a href="https://youtube.com/playlist?list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU">Unity 2022 Beginners Course</a>, <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials by Unity Learn</a>, |
+|C# For Unity Engine|<a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Beginner Friendly C# for Unity</a>, <a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Intermediate C# for Unity</a>, <a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Learning C# by Developing Games with Unity 2021 by Harrison Ferrone (Book)</a>|
+
