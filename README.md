@@ -1,4 +1,4 @@
-<div width="100%" ><center><img width="600px" src="./assets/anterndark.svg" ></img></center></div>
+<div align="center" ><img width="600px" src="./assets/anterndark.svg" ></img></div>
 <center><h3><b>One-Stop Solution for Learning Extended Reality</b></h3></center>
 <center>Learn from the best of best through [Antern](https://antern.co/) amazing courses</center>
 
