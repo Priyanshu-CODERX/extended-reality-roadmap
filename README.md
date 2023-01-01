@@ -22,7 +22,7 @@
 | Topic      | Resources |
 | ----------- | ----------- |
 | Fundamentals of Programming with C#      | <a href="https://youtu.be/0QUgvfuKvWU" >C# Fundamentals for Beginners</a>, <a href="#" >Learn C# in One Day and Learn It Well by Jamie Chan (Book)</a>, <a href="https://dotnet.microsoft.com/en-us/learn/csharp">Learn C# From Microsoft</a>|
-| Fundamentals of Unity Engine   | <a href="https://youtube.com/playlist?list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU">Unity 2022 Beginners Course</a>, <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials by Unity Learn</a> |
+| Fundamentals of Unity Engine   | <a href="https://youtube.com/playlist?list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU">Unity 2022 Beginners Course</a>, <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials by Unity Learn</a>, <a href="https://youtu.be/nXCmOzs9it8">Basics of Unity Engine</a> |
 |C# For Unity Engine|<a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Beginner Friendly C# for Unity</a>, <a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Intermediate C# for Unity</a>, <a href="#">Learning C# by Developing Games with Unity 2021 by Harrison Ferrone (Optional Book)</a>|
 
 #### NOTE: It's highly recommended to go through the prerequisites once if you don't have any experience with C# and Unity, it will teach you all the necessary components related to C# Scripting in Unity.
@@ -36,3 +36,33 @@
 | Fundamentals of Mixed Reality | <a href="https://learn.microsoft.com/en-us/windows/mixed-reality/discover/mixed-reality">What is Mixed Reality</a>, <a href="https://learn.microsoft.com/en-us/windows/mixed-reality/discover/hologram">What are Holograms</a>, <a href="https://learn.microsoft.com/en-us/windows/mixed-reality/discover/types-of-mixed-reality-apps">Types of Mixed Reality Applications</a>|
 | Designing XR Applications | <a href="https://youtu.be/R2rm7otkYbQ">XR Design Process</a>, <a href="https://youtu.be/ubqCip3gpSI">Design Thinking Ethics and Guidelines</a>, <a href="https://xd.adobe.com/ideas/principles/emerging-technology/ux-design-principles-for-augmented-reality/">UX Design Principles for Augmented Reality</a>, <a href="https://marvelapp.com/blog/designing-vr-beginners-guide/">Designing VR Applications</a> |
 | Best Practices for Developing & Designing XR Applications | <a href="https://youtu.be/bNJJCREZgVM">Designing AR Applications by Google'18</a>, <a href="https://youtu.be/Q3smmTWtzng">Things to know while creating XR Applications</a>, <a href="https://youtu.be/OHUZE3Fd0hM">AR Best Practices</a>, <a href="https://youtu.be/BlM2T1beKbg">Designing AR Applications by Google'19</a>|
+
+# MANDATORY: XR Development Pipeline
+#### NOTE: It is mandatory for everyone to go through this proper pipeline to develop and deploy Augmented Reality Applications and use this pipeline whenever developing their XR Projects 
+| Topic | Resources |
+| ------- | -------|
+| Extended Reality Development Pipeline | <a href="https://youtu.be/D4vFOo8Kr00">XR Development Pipeline</a>, <a href="https://drive.google.com/file/d/1QoJ2m9b4vPr_nOiP1fjZtSrqONZawrVR/view?usp=sharing">XR Development Pipeline Structure</a> |
+
+# Level Two: Developing Markerbased Augmented Reality Applications with Vuforia Engine
+
+| Topic | Resources |
+| ------- | -------|
+| Introduction to Markerbased Augmented Reality | <a href="https://youtu.be/TzaYe3JnKrk">Markerbased AR in Depth</a>, <a href="https://drive.google.com/file/d/1KTJ4S8J-eRl0jVQ_HQ4azqDor-vAb6pm/view?usp=sharing">Theory and Applications of Markerbased Augmented Reality (Optional but really beneficial)</a> |
+| Introduction to Vuforia Engine | <a href="https://library.vuforia.com/getting-started/vuforia-features">Fundamentals of Vuforia Engine</a>, <a href="https://youtu.be/yZbEWveYTv4">Getting Started with Vuforia</a>|
+| Multiple Image Tracking | <a href="https://youtu.be/YFp-AYOb0t4">Multi Image Tracking with Vuforia</a>, <a href="https://library.vuforia.com/objects/detect-and-track-multiple-targets-simultaneously">Vuforia Simultaneous Tracking</a>|
+| Vuforia Virtual Buttons | <a href="https://youtu.be/X3iWYUN2i6M">Theory & Implementation Virtual Buttons</a>, <a href="https://library.vuforia.com/objects/virtual-buttons">Best Practices, Configuration and Implementation of Virtual Buttons</a> |
+
+#### NOTE: It is mandatory to develop some Augmented Reality Applications with Vuforia and Unity Engine by following the best practices and a proper development pipeline before moving on towards developing Markerless Augmented Reality Applications, this would help you get a grip on the tools and build better Augmented Reality Experiences further
+
+# Level Three: Developing Markerless Augmented Reality Applications with Vuforia Engine
+
+| Topic | Resources |
+| ------- | -------|
+| Introduction to Markerless Augmented Reality | <a href="https://youtu.be/TzaYe3JnKrk">Markerbased AR in Depth</a>, <a href="https://drive.google.com/file/d/1KTJ4S8J-eRl0jVQ_HQ4azqDor-vAb6pm/view?usp=sharing">Theory and Applications of Markerbased Augmented Reality (Optional but really beneficial)</a> |
+| Introduction to AR Foundation and AR Core | <a href="https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation">Getting Started with AR Foundation and AR Core (Documentation)</a> , <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html">More About AR Foundation (Documentation)</a>|
+| Setup AR Foundation and AR Core | <a href="https://learn.unity.com/tutorial/setting-up-ar-foundation#">Setup AR Foundation and AR Core for Markerless Augmented Reality Development with Unity Engine</a> |
+#### NOTE: Make sure to use IL2CPP as a Scripting Backend rather than using Mono in Unity Engine and ARM64 should be enabled to successfully build AR Core Applications with Unity Engine or else you might run into errors
+| Topic | Resources |
+| ------- | -------|
+| Plane Tracking  in AR Foundation| <a href="https://learn.unity.com/tutorial/configuring-plane-detection-for-ar-foundation">Configuring Plane Detection and Tracking</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/plane-manager.html">AR Plane Manager</a> |
+| Ray Casting& Place Objects in AR | <a href="https://learn.unity.com/tutorial/configuring-plane-detection-for-ar-foundation">Configuring Plane Detection and Tracking</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/plane-manager.html">AR Plane Manager</a> |
