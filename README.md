@@ -1,4 +1,4 @@
-<br />
+a<br />
 <div align="center">
   <a target="_blank" href="https://antern.co/">
     <img src="./assets/antern.png" alt="Logo" width="600px">
@@ -54,15 +54,20 @@
 
 #### NOTE: It is mandatory to develop some Augmented Reality Applications with Vuforia and Unity Engine by following the best practices and a proper development pipeline before moving on towards developing Markerless Augmented Reality Applications, this would help you get a grip on the tools and build better Augmented Reality Experiences further
 
-# Level Three: Developing Markerless Augmented Reality Applications with Vuforia Engine
+# Level Three: Developing Markerless Augmented Reality Applications with AR Foundation
 
 | Topic | Resources |
 | ------- | -------|
-| Introduction to Markerless Augmented Reality | <a href="https://youtu.be/TzaYe3JnKrk">Markerbased AR in Depth</a>, <a href="https://drive.google.com/file/d/1KTJ4S8J-eRl0jVQ_HQ4azqDor-vAb6pm/view?usp=sharing">Theory and Applications of Markerbased Augmented Reality (Optional but really beneficial)</a> |
 | Introduction to AR Foundation and AR Core | <a href="https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation">Getting Started with AR Foundation and AR Core (Documentation)</a> , <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html">More About AR Foundation (Documentation)</a>|
 | Setup AR Foundation and AR Core | <a href="https://learn.unity.com/tutorial/setting-up-ar-foundation#">Setup AR Foundation and AR Core for Markerless Augmented Reality Development with Unity Engine</a> |
 #### NOTE: Make sure to use IL2CPP as a Scripting Backend rather than using Mono in Unity Engine and ARM64 should be enabled to successfully build AR Core Applications with Unity Engine or else you might run into errors
 | Topic | Resources |
 | ------- | -------|
-| Plane Tracking  in AR Foundation| <a href="https://learn.unity.com/tutorial/configuring-plane-detection-for-ar-foundation">Configuring Plane Detection and Tracking</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/plane-manager.html">AR Plane Manager</a> |
-| Ray Casting& Place Objects in AR | <a href="https://learn.unity.com/tutorial/configuring-plane-detection-for-ar-foundation">Configuring Plane Detection and Tracking</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/plane-manager.html">AR Plane Manager</a> |
+| Plane Tracking  in AR Foundation| <a href="https://youtu.be/t2UW1ulg4Z0">Configuring Plane Detection and Tracking (Video)</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/plane-manager.html">AR Plane Manager (Documentation)</a>  |
+| Ray Casting & Place Objects in AR | <a href="https://youtu.be/VMjZ70PmnPs">Object Placement with Raycasting (Video)</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/raycast-manager.html">AR Raycast Manager (Documentation)</a> |
+| Multiple Object Placement | <a href="https://youtu.be/phDbAMYVkzw">Multiple Object Placement with Raycasting (Video)</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/raycast-manager.html">AR Raycast Manager (Documentation)</a>|
+| Augmented Faces and Face Tracking | <a href="https://developers.google.com/ar/develop/augmented-faces">Introduction to Augmented Faces (Documentation)</a>, <a href="https://learn.unity.com/tutorial/tracking-faces-in-ar#">Tracking Faces with AR Foundation (Article)</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.0/manual/face-manager.html">AR Face Tracking (Documentation)</a> |
+| Image Tracking | <a href="https://youtu.be/MdeuA0FITS0">Image Tracking with AR Foundation (Video)</a>, <a href="https://developers.google.com/ar/develop/augmented-images">Augmented Images (Documentation)</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/tracked-image-manager.html">AR Tracked Image Manager (Documentation)</a> |
+| Light Estimation |<a href="https://developers.google.com/ar/develop/lighting-estimation#:~:text=The%20Lighting%20Estimation%20API%20provides,%2C%20specular%20highlights%2C%20and%20reflections.">Introduction to Light Estimation (Article)</a>, <a href="https://developers.google.com/ar/develop/unity-arf/lighting-estimation/developer-guide">Integrating Light Estimation with AR Foundation (Documentation)</a>, <a href="https://github.com/Priyanshu-CODERX/light-estimation-api"> Implementation of Light Estimation (Code)</a>|
+
+#### NOTE: It's recommended to everyone to implement these mechanisms by themselves by building micro projects, by following this method you can learn a lot about these tools and mechanisms.
