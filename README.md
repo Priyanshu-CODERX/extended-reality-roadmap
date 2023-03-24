@@ -1,4 +1,4 @@
-a<br />
+<br />
 <div align="center">
   <a target="_blank" href="https://antern.co/">
     <img src="./assets/antern.png" alt="Logo" width="600px">
