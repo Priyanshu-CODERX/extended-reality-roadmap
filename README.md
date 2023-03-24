@@ -80,3 +80,9 @@
 | AR Anchors | <a href="https://developers.google.com/ar/develop/anchors">Fundamentals of Anchors</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/anchor-manager.html">AR Anchor Manager</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/anchor-manager.html">AR Anchor Manager</a>, <a href="https://youtu.be/Htl87z61gjo">Implement Local AR Anchors</a>, <a href="https://youtu.be/b4mgaIuCozk">Persistant Cloud AR Anchors</a>, <a href="https://youtu.be/EuKW9RjORdk">Implement Cloud AR Anchors</a>, |
 
 #### A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
+
+# Level Four: Build with Lightship ARDK
+| Topic | Resources |
+| ------- | -------|
+| Integrate Lightship ARDK with Unity | <a href="https://youtu.be/Q6lL7D5kXzU">Getting Started with Lightship ARDK</a>, <a href="https://lightship.dev/learn/beginners-atlas/install-ardk/">Install Lightship ARDK</a>|
+| Deploy ARDK Applications to Android/iOS | <a href="https://lightship.dev/docs/ardk/ardk_fundamentals/building_android.html#doxid-building-android">Build ARDK for Android Systems</a>, <a href="https://lightship.dev/docs/ardk/ardk_fundamentals/building_ios.html#doxid-building-ios">Install Lightship ARDK</a>|
