@@ -62,6 +62,8 @@
 | Topic | Resources |
 | ------- | -------|
 | Introduction to AR Foundation and AR Core | <a href="https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation">Getting Started with AR Foundation and AR Core (Documentation)</a> , <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html">More About AR Foundation (Documentation)</a>|
+| Core Concepts of AR Core | <a href="https://developers.google.com/ar/develop/fundamentals">Fundamentals of ARCore</a>|
+| UX Design Principles of ARCore| <a href="https://developers.google.com/ar/designfundamentals">User Experience Design Guidelines for Augmented Reality</a>|
 | Setup AR Foundation and AR Core | <a href="https://learn.unity.com/tutorial/setting-up-ar-foundation#">Setup AR Foundation and AR Core for Markerless Augmented Reality Development with Unity Engine</a> |
 
 #### To ensure a smooth build process for AR Core applications in Unity Engine, it is recommended to use the IL2CPP scripting backend instead of Mono. Additionally, make sure to enable ARM64 support for supporting 64Bit Architecture for your target platform. This will help avoid any potential errors during the build process.
@@ -76,4 +78,4 @@
 | Light Estimation |<a href="https://developers.google.com/ar/develop/lighting-estimation#:~:text=The%20Lighting%20Estimation%20API%20provides,%2C%20specular%20highlights%2C%20and%20reflections.">Introduction to Light Estimation (Article)</a>, <a href="https://developers.google.com/ar/develop/unity-arf/lighting-estimation/developer-guide">Integrating Light Estimation with AR Foundation (Documentation)</a>, <a href="https://github.com/Priyanshu-CODERX/light-estimation-api"> Implementation of Light Estimation (Code)</a>|
 | Realtime Occlusion | <a href="https://youtu.be/q9PFFqAABBM">What is Occlusion? Why Does it Matter?</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/features/occlusion.html">AR Occlusion Manager</a>,<a href="https://youtu.be/kK-acFwOWDc">Integrate Realtime Environment Occlusion with AR Foundation</a>, <a href="https://youtu.be/6seuSOUf3OU">Integrate Human Occlusion with AR Foundation (Only Works on iPhone's with ARKit)</a> |
 
-#### A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
+##### A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
