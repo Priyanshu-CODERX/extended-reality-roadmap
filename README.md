@@ -37,7 +37,6 @@ Now that we have completed the prerequisites, it's time to dive into the excitin
 | Designing XR Applications | <a href="https://youtu.be/R2rm7otkYbQ">XR Design Process</a>, <a href="https://youtu.be/ubqCip3gpSI">Design Thinking Ethics and Guidelines</a>, <a href="https://xd.adobe.com/ideas/principles/emerging-technology/ux-design-principles-for-augmented-reality/">UX Design Principles for Augmented Reality</a>, <a href="https://marvelapp.com/blog/designing-vr-beginners-guide/">Designing VR Applications</a> |
 | Best Practices for Developing & Designing XR Applications | <a href="https://youtu.be/bNJJCREZgVM">Designing AR Applications by Google'18</a>, <a href="https://youtu.be/Q3smmTWtzng">Things to know while creating XR Applications</a>, <a href="https://youtu.be/OHUZE3Fd0hM">AR Best Practices</a>, <a href="https://youtu.be/BlM2T1beKbg">Designing AR Applications by Google'19</a>|
 
-# MANDATORY: XR Development Pipeline
 For anyone learning to develop and deploy Augmented Reality applications, it's highly recommended to follow a proper pipeline. This helps ensure a smooth and efficient development process, and improves the overall quality of the final product. It's a good idea to use this pipeline as a guide whenever working on XR projects, as it can save you time and help you avoid potential issues down the line.
 
 
