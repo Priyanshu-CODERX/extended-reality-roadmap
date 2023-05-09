@@ -131,7 +131,7 @@ Instagram's AR effects, also known as "Spark AR effects," can be created using M
 Snapchat, on the other hand, has been a pioneer in AR technology, with its lenses and filters being some of the most well-known examples of Social AR Experiences. These AR effects are created using Snapchat's Lens Studio, which allows developers to build custom AR experiences that users can interact with through the app's camera feature.
 
 Overall, Instagram and Snapchat's integration of Social AR Experiences into their platforms has created a new form of social interaction that enables users to engage with each other in fun and immersive ways.
-## 📱 Meta Spark Studio
+## Meta Spark Studio
 | Course Level | Resources |
 | ------- | -------|
 | Beginner | <a href="https://metaspark.facebookblueprint.com/student/collection/290354-quick-start?sid_i=0">Quick Start Course for Meta Spark Studio</a>|
@@ -139,7 +139,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | Advanced | <a href="https://metaspark.facebookblueprint.com/student/collection/291404-ar-pro?sid_i=2">Advanced Concepts of Meta Spark Studio</a>|
 | Documentation | <a href="https://sparkar.facebook.com/ar-studio/learn/">Documentation for Meta Spark Studio</a>|
 
-## 📱 Snapchat's Lens Studio
+## Snapchat's Lens Studio
 | Course Level | Resources |
 | ------- | -------|
 | Beginner | <a href="https://ar.snap.com/beginners-course">Quick Start Course for Snapchat Lens Studio</a>|
