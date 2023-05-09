@@ -39,6 +39,7 @@ I will divide the resources into different levels of learning and will also prov
 - **Building Markerless Augmented Reality with AR Foundation**
 - **Building Augmented Reality Experiences with Lightship ARDK**
 - **Building Social AR Experiences**
+- **Resources For Assets**
 
 # Prerequisites For The Roadmap
 | Topic      | Resources |
@@ -47,7 +48,7 @@ I will divide the resources into different levels of learning and will also prov
 | Fundamentals of Unity Engine   | <a href="https://youtube.com/playlist?list=PLS7jk2aVN8G4b-uuf-M0_fhQjL7KEmQwU">Unity 2022 Beginners Course</a>, <a href="https://learn.unity.com/pathway/unity-essentials">Unity Essentials by Unity Learn</a>, <a href="https://youtu.be/nXCmOzs9it8">Basics of Unity Engine</a> |
 |C# For Unity Engine|<a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Beginner Friendly C# for Unity</a>, <a href="https://youtube.com/playlist?list=PLX2vGYjWbI0S9-X2Q021GUtolTqbUBB9B">Intermediate C# for Unity</a>, <a href="#">Learning C# by Developing Games with Unity 2021 by Harrison Ferrone (Optional Book)</a>|
 
-<b>Recommended 📖 </b> If you're new to C# and Unity, we highly recommend going through the prerequisites first. These resources cover all the necessary components related to C# scripting in Unity and will help you get up to speed quickly. By mastering these fundamentals, you'll have a solid foundation to build on as you explore more advanced topics in Unity development. So take your time and enjoy the learning process!
+<b>Recommended 💁: </b> If you're new to C# and Unity, we highly recommend going through the prerequisites first. These resources cover all the necessary components related to C# scripting in Unity and will help you get up to speed quickly. By mastering these fundamentals, you'll have a solid foundation to build on as you explore more advanced topics in Unity development. So take your time and enjoy the learning process!
 
 Now that we have completed the prerequisites, it's time to dive into the exciting world of Augmented Reality, Virtual Reality, and Mixed Reality. You can start learning the fundamental concepts of these technologies in-depth, and explore the endless possibilities they offer. It's an exciting journey, and we hope you enjoy every step of it!
 
@@ -59,7 +60,7 @@ Now that we have completed the prerequisites, it's time to dive into the excitin
 | Designing XR Applications | <a href="https://youtu.be/R2rm7otkYbQ">XR Design Process</a>, <a href="https://youtu.be/ubqCip3gpSI">Design Thinking Ethics and Guidelines</a>, <a href="https://xd.adobe.com/ideas/principles/emerging-technology/ux-design-principles-for-augmented-reality/">UX Design Principles for Augmented Reality</a>, <a href="https://marvelapp.com/blog/designing-vr-beginners-guide/">Designing VR Applications</a> |
 | Best Practices for Developing & Designing XR Applications | <a href="https://youtu.be/bNJJCREZgVM">Designing AR Applications by Google'18</a>, <a href="https://youtu.be/Q3smmTWtzng">Things to know while creating XR Applications</a>, <a href="https://youtu.be/OHUZE3Fd0hM">AR Best Practices</a>, <a href="https://youtu.be/BlM2T1beKbg">Designing AR Applications by Google'19</a>|
 
-For anyone learning to develop and deploy Augmented Reality applications, it's highly recommended to follow a proper pipeline. This helps ensure a smooth and efficient development process, and improves the overall quality of the final product. It's a good idea to use this pipeline as a guide whenever working on XR projects, as it can save you time and help you avoid potential issues down the line.
+<b>Developer Tip 1 ⚒️: </b>For anyone learning to develop and deploy Augmented Reality applications, it's highly recommended to follow a proper pipeline. This helps ensure a smooth and efficient development process, and improves the overall quality of the final product. It's a good idea to use this pipeline as a guide whenever working on XR projects, as it can save you time and help you avoid potential issues down the line.
 
 
 | Topic | Resources |
@@ -75,7 +76,7 @@ For anyone learning to develop and deploy Augmented Reality applications, it's h
 | Multiple Image Tracking | <a href="https://youtu.be/YFp-AYOb0t4">Multi Image Tracking with Vuforia</a>, <a href="https://library.vuforia.com/objects/detect-and-track-multiple-targets-simultaneously">Vuforia Simultaneous Tracking</a>|
 | Vuforia Virtual Buttons | <a href="https://youtu.be/X3iWYUN2i6M">Theory & Implementation Virtual Buttons</a>, <a href="https://library.vuforia.com/objects/virtual-buttons">Best Practices, Configuration and Implementation of Virtual Buttons</a> |
 
-If you're looking to develop Augmented Reality (AR) applications using Vuforia and Unity Engine, it's important to start with the basics and follow best practices. Developing AR apps using Vuforia and Unity with a proper development pipeline can help you gain a solid foundation and understanding of the tools involved. This will make it easier to transition to more advanced Markerless AR development in the future and help you create better AR experiences overall.
+<b>Developer Tip 2 ⚒️: </b>If you're looking to develop Augmented Reality (AR) applications using Vuforia and Unity Engine, it's important to start with the basics and follow best practices. Developing AR apps using Vuforia and Unity with a proper development pipeline can help you gain a solid foundation and understanding of the tools involved. This will make it easier to transition to more advanced Markerless AR development in the future and help you create better AR experiences overall.
 
 
 # Level Three: Developing Markerless Augmented Reality Applications with AR Foundation
@@ -100,10 +101,11 @@ To ensure a smooth build process for AR Core applications in Unity Engine, it is
 | Realtime Occlusion | <a href="https://youtu.be/q9PFFqAABBM">What is Occlusion? Why Does it Matter?</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/features/occlusion.html">AR Occlusion Manager</a>,<a href="https://youtu.be/kK-acFwOWDc">Integrate Realtime Environment Occlusion with AR Foundation</a>, <a href="https://youtu.be/6seuSOUf3OU">Integrate Human Occlusion with AR Foundation (Only Works on iPhone's with ARKit)</a> |
 | AR Anchors | <a href="https://developers.google.com/ar/develop/anchors">Fundamentals of Anchors</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/anchor-manager.html">AR Anchor Manager</a>, <a href="https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/anchor-manager.html">AR Anchor Manager</a>, <a href="https://youtu.be/Htl87z61gjo">Implement Local AR Anchors</a>, <a href="https://youtu.be/b4mgaIuCozk">Persistant Cloud AR Anchors</a>, <a href="https://youtu.be/EuKW9RjORdk">Implement Cloud AR Anchors</a>, |
 
-A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
+<b>Learning Tip 1 ⚒️: </b>A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
 
 # Level Four: Building AR Experiences with Lightship ARDK
 As you progress to Level Four, it is important to have sufficient experience with C# as the concepts and implementations you encounter may become more complex. However, do not worry as long as you carefully follow the documentation, which provides guidance on Lightship ARDK, you will gain a better understanding.
+
 | Topic | Resources |
 | ------- | -------|
 | Integrate Lightship ARDK with Unity | <a href="https://youtu.be/Q6lL7D5kXzU">Getting Started with Lightship ARDK</a>, <a href="https://lightship.dev/learn/beginners-atlas/install-ardk/">Install Lightship ARDK</a>|
@@ -145,3 +147,36 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | Intermediate | <a href="https://ar.snap.com/custom-location-courses">Building Location Based AR Lenses</a>|
 | Documentation | <a href="https://docs.snap.com/lens-studio/home">Documentation for Snapchat's Lens Studio</a>|
 | Additional Resource | <a href="https://arbootcamp.com/">Extra Content for Meta Spark Studio & Lens Studio</a>|
+
+# Extra Resources To Ease Up Development
+## 3D Models:
+* Sketchfab: https://sketchfab.com/feed
+* Turbosquid: https://www.turbosquid.com/
+* Free3D: https://free3d.com/
+* ReadyPlayerMe: https://readyplayer.me/
+* Smithsonian X3D:https://3d.si.edu/
+* Nasa 3D Resources:https://nasa3d.arc.nasa.gov/
+* Adobe Mixamo:https://www.mixamo.com/ 
+* 3Delicious:https://3delicious.net/ 
+* RenderHub:https://www.renderhub.com/
+* OpenGameArt:https://opengameart.org/ 
+* Archive3D:https://archive3d.net/ 
+* Unity Asset Store:https://assetstore.unity.com/ 
+* Autodesk Online Gallery:https://gallery.autodesk.com/
+* 3D Warehouse: https://3dwarehouse.sketchup.com/
+
+## Textures:
+* 3D Texture:https://3dtextures.me/ 
+* Textures: https://www.textures.com/
+* Poliigon: https://www.poliigon.com/
+* AmbientCG: https://ambientcg.com/list
+* FreePBR: https://freepbr.com/
+* ShareTextures: https://www.sharetextures.com/textures
+* CGBookcase: https://www.cgbookcase.com/
+* Archinspirations: https://www.archinspirations.com/materials
+
+## HDRI:
+* Poly Haven:https://polyhaven.com/hdris 
+* HDR Maps:https://hdrmaps.com/freebies/
+* 3DArt: https://www.3dart.it/en/download/hdri/
+* Blockade Labs: https://skybox.blockadelabs.com/
