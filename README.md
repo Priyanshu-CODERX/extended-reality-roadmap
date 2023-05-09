@@ -5,6 +5,16 @@
   </a>
 
   <h3 align="center">The Only Resource You Will Need For Learning Extended Reality</h3>
+  <p align="center">
+    All in One place for the best resources to learn Augmented Reality with comprehensive and detailed roadmaps.
+    <br />
+    <a href="https://antern.co/"><strong>Vist Our Website</strong></a>
+    <br />
+    <div align="center">
+      Join<a href="https://discord.gg/gm34pMcpzD" target="_blank">
+    <b>Antern Community</b> </a> and Ask Your Questions There. 
+    </div>
+  </p>
 </div>
 
 # Extended Reality Roadmap - Augmented Reality
@@ -17,6 +27,18 @@
 * The roadmap will help you get started with Extended Reality development by following a level based approach and it's recommended to everyone to go through the prerequisite content before hopping onto learning to develop XR Applications. 
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
+
+## Table of Contents
+
+I will divide the resources into different levels of learning and will also provide the best resources to learn each topic. The levels of learning are:
+
+- **Fundamentals of Programming with C#**
+- **Fundamentals of Unity Engine**
+- **Fundamentals of Extended Reality and Best Practices**
+- **Building Markerbased Augmented Reality with Vuforia Engine**
+- **Building Markerless Augmented Reality with AR Foundation**
+- **Building Augmented Reality Experiences with Lightship ARDK**
+- **Building Social AR Experiences**
 
 # Prerequisites For The Roadmap
 | Topic      | Resources |
@@ -80,7 +102,7 @@ To ensure a smooth build process for AR Core applications in Unity Engine, it is
 
 A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
 
-# Level Four: Build with Lightship ARDK
+# Level Four: Building AR Experiences with Lightship ARDK
 As you progress to Level Four, it is important to have sufficient experience with C# as the concepts and implementations you encounter may become more complex. However, do not worry as long as you carefully follow the documentation, which provides guidance on Lightship ARDK, you will gain a better understanding.
 | Topic | Resources |
 | ------- | -------|
@@ -97,7 +119,7 @@ As you progress to Level Four, it is important to have sufficient experience wit
 | Lightship Visual Positioning System | <a href="https://lightship.dev/docs/ardk/vps/index.html">Introduction to Lightship VPS</a>, <a href="https://lightship.dev/guides/building-with-vps/">Building with VPS</a>, |
 | Scanning Framework | <a href="https://lightship.dev/docs/ardk/scanning/getting_started.html">Implement Scanning Framework</a>, <a href="https://lightship.dev/docs/ardk/scanning/additional_scanning_settings.html#">Scanning Parameters and Settings</a> |
 
-# Level Five: Build Social AR Experiences
+# Level Five: Building Social AR Experiences
 Social AR experiences are augmented reality applications that enable multiple users to interact and collaborate in real-time within a shared AR environment. These experiences combine the power of AR technology with social networking capabilities to create a new form of social interaction.
 
 Instagram and Snapchat are examples of social media platforms that have integrated Social AR Experiences into their applications. Both platforms use AR technology to create interactive filters and effects that users can apply to their photos and videos, allowing them to share fun and creative content with their friends and followers.
