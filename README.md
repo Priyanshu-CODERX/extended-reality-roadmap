@@ -39,7 +39,7 @@ I will divide the resources into different levels of learning and will also prov
 - **Building Markerless Augmented Reality with AR Foundation**
 - **Building Augmented Reality Experiences with Lightship ARDK**
 - **Building Social AR Experiences**
-- **Resources For Assets**
+- **Resources To Download Assets**
 
 # Prerequisites For The Roadmap
 | Topic      | Resources |
@@ -148,8 +148,8 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | Documentation | <a href="https://docs.snap.com/lens-studio/home">Documentation for Snapchat's Lens Studio</a>|
 | Additional Resource | <a href="https://arbootcamp.com/">Extra Content for Meta Spark Studio & Lens Studio</a>|
 
-# Extra Resources To Ease Up Development
-## 3D Models:
+# Resources To Download Assets
+## 3D Models
 * Sketchfab: https://sketchfab.com/feed
 * Turbosquid: https://www.turbosquid.com/
 * Free3D: https://free3d.com/
@@ -165,7 +165,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * Autodesk Online Gallery:https://gallery.autodesk.com/
 * 3D Warehouse: https://3dwarehouse.sketchup.com/
 
-## Textures:
+## Textures
 * 3D Texture:https://3dtextures.me/ 
 * Textures: https://www.textures.com/
 * Poliigon: https://www.poliigon.com/
@@ -175,7 +175,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * CGBookcase: https://www.cgbookcase.com/
 * Archinspirations: https://www.archinspirations.com/materials
 
-## HDRI:
+## HDRI
 * Poly Haven:https://polyhaven.com/hdris 
 * HDR Maps:https://hdrmaps.com/freebies/
 * 3DArt: https://www.3dart.it/en/download/hdri/
