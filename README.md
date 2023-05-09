@@ -4,7 +4,7 @@
     <img src="./assets/antern.png" alt="Logo" width="600px">
   </a>
 
-  <h3 align="center">The Only Resource You Will Need For Learning Extended Reality</h3>
+  <b align="center">The Only Resource You Will Need For Learning Extended Reality</b>
 </div>
 
 # Extended Reality Roadmap
