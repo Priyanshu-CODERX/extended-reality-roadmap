@@ -4,10 +4,10 @@
     <img src="./assets/antern.png" alt="Logo" width="600px">
   </a>
 
-  <b align="center">The Only Resource You Will Need For Learning Extended Reality</b>
+  <h3 align="center">The Only Resource You Will Need For Learning Extended Reality</h3>
 </div>
 
-# Extended Reality Roadmap
+# Extended Reality Roadmap - Augmented Reality
 * Extended Reality is a vast domain of immersive and spatial computing and can get really hard to find the best resources for learning Extended Reality. This repository compiles the best possible resources on XR out there, this is a very detailed and comprehensive roadmap with loads of amazing resources to learn from.
 
 * It contains the best resources to learn Augmented Reality, Virtual Reality and Mixed Reality from scratch along with all the necessary tools such as Blender, Unity Engine, Vuforia, Spark AR, Lens Studio, AR Core and AR Foundation.
@@ -96,3 +96,30 @@ As you progress to Level Four, it is important to have sufficient experience wit
 | ARDK Shared AR | <a href="https://lightship.dev/docs/ardk/multiplayer/getting_started_with_shared_ar.html">Getting Started with Shared AR</a>, <a href="https://lightship.dev/guides/shared-ar-session-plane-tracking/">Shared AR Sessions and Plane Tracking</a>, <a href="https://lightship.dev/guides/shared-ar-host-peer-communication/">Shared AR Hosts and Peers Communication</a> |
 | Lightship Visual Positioning System | <a href="https://lightship.dev/docs/ardk/vps/index.html">Introduction to Lightship VPS</a>, <a href="https://lightship.dev/guides/building-with-vps/">Building with VPS</a>, |
 | Scanning Framework | <a href="https://lightship.dev/docs/ardk/scanning/getting_started.html">Implement Scanning Framework</a>, <a href="https://lightship.dev/docs/ardk/scanning/additional_scanning_settings.html#">Scanning Parameters and Settings</a> |
+
+# Level Five: Build Social AR Experiences
+Social AR experiences are augmented reality applications that enable multiple users to interact and collaborate in real-time within a shared AR environment. These experiences combine the power of AR technology with social networking capabilities to create a new form of social interaction.
+
+Instagram and Snapchat are examples of social media platforms that have integrated Social AR Experiences into their applications. Both platforms use AR technology to create interactive filters and effects that users can apply to their photos and videos, allowing them to share fun and creative content with their friends and followers.
+
+Instagram's AR effects, also known as "Spark AR effects," can be created using Meta's Spark Studio, a platform that enables developers to build and publish AR experiences for Instagram and Facebook. Instagram users can access these effects through the app's camera feature and apply them to their photos and videos.
+
+Snapchat, on the other hand, has been a pioneer in AR technology, with its lenses and filters being some of the most well-known examples of Social AR Experiences. These AR effects are created using Snapchat's Lens Studio, which allows developers to build custom AR experiences that users can interact with through the app's camera feature.
+
+Overall, Instagram and Snapchat's integration of Social AR Experiences into their platforms has created a new form of social interaction that enables users to engage with each other in fun and immersive ways.
+## Meta Spark Studio
+| Course Level | Resources |
+| ------- | -------|
+| Beginner | <a href="https://metaspark.facebookblueprint.com/student/collection/290354-quick-start?sid_i=0">Quick Start Course for Meta Spark Studio</a>|
+| Intermediate | <a href="https://metaspark.facebookblueprint.com/student/collection/288527-ar-fundamentals?sid_i=1">Fundamentals of Meta Spark Studio</a>|
+| Advanced | <a href="https://metaspark.facebookblueprint.com/student/collection/291404-ar-pro?sid_i=2">Advanced Concepts of Meta Spark Studio</a>|
+| Documentation | <a href="https://sparkar.facebook.com/ar-studio/learn/">Documentation for Meta Spark Studio</a>|
+
+## Snapchat's Lens Studio
+| Course Level | Resources |
+| ------- | -------|
+| Beginner | <a href="https://ar.snap.com/beginners-course">Quick Start Course for Snapchat Lens Studio</a>|
+| Intermediate | <a href="https://metaspark.facebookblueprint.com/student/collection/288527-ar-fundamentals?sid_i=1">Building Fashion Try On Lenses</a>|
+| Intermediate | <a href="https://ar.snap.com/custom-location-courses">Building Location Based AR Lenses</a>|
+| Documentation | <a href="https://docs.snap.com/lens-studio/home">Documentation for Snapchat's Lens Studio</a>|
+| Additional Resource | <a href="https://arbootcamp.com/">Extra Content for Meta Spark Studio & Lens Studio</a>|
