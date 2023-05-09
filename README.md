@@ -18,7 +18,7 @@
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
 
-# Prerequisites
+# Prerequisites For The Roadmap
 | Topic      | Resources |
 | ----------- | ----------- |
 | Fundamentals of Programming with C#      | <a href="https://youtu.be/0QUgvfuKvWU" >C# Fundamentals for Beginners</a>, <a href="#" >Learn C# in One Day and Learn It Well by Jamie Chan (Book)</a>, <a href="https://dotnet.microsoft.com/en-us/learn/csharp">Learn C# From Microsoft</a>|
