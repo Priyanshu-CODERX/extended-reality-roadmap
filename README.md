@@ -28,7 +28,7 @@
 
 * It covers all the essential tools that a developer uses to develop their augmented reality experiences and launch them on PlayStore, AppStore, Instagram, Snapchat, etc.
 
-## Table of Contents
+## ⭐ Table of Contents
 
 I have categorized the resources into different levels of learning and have included the best resources for each topic.
 
