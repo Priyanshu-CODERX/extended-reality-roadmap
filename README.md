@@ -30,7 +30,7 @@
 
 ## Table of Contents
 
-I will divide the resources into different levels of learning and will also provide the best resources to learn each topic. The levels of learning are:
+I have categorized the resources into different levels of learning and have included the best resources for each topic.
 
 - **Fundamentals of Programming with C#**
 - **Fundamentals of Unity Engine**
@@ -39,6 +39,7 @@ I will divide the resources into different levels of learning and will also prov
 - **Building Markerless Augmented Reality with AR Foundation**
 - **Building Augmented Reality Experiences with Lightship ARDK**
 - **Building Social AR Experiences**
+- **Resources To Grow As A Developer**
 - **Resources To Download Assets**
 
 # 📝 Prerequisites For The Roadmap
@@ -153,6 +154,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | ------- | -------|
 | Version Control Systems with Git and Github | <a href="https://youtu.be/RGOj5yH7evk">Git and Github for Beginners - FreeCodeCamp</a>, <a href="https://youtu.be/_ewoEQFEURg">Git & Github for Unity Engine - Infallible Code</a>|
 | C# Coding Style Guide | <a href="https://google.github.io/styleguide/csharp-style.html">C# Coding Style Guide by Google</a>, <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">C# Coding Convention by Microsoft</a>|
+| Clean Code | <a href="https://www.freecodecamp.org/news/clean-coding-for-beginners/">Clean Coding for Beginners - FreeCodeCamp</a>, <a href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388">Clean Code by Robert C. Martin</a>|
 | SOLID Principles | <a href="https://www.interviewbit.com/blog/solid-principles-in-c-sharp/">SOLID Principles with C# by InterviewBit</a>, <a href="https://www.educative.io/blog/solid-principles-oop-c-sharp">SOLID Principles in C# by Educative</a>|
 | Design Patterns | <a href="https://refactoring.guru/design-patterns">Design Patterns by Refactoring Guru</a>, <a href="https://gameprogrammingpatterns.com/contents.html">Game Programming Patterns</a>|
 | Code Refactoring | <a href="https://refactoring.guru/refactoring">Code Refactoring by Refactoring Guru</a> |
