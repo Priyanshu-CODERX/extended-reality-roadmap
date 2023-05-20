@@ -148,6 +148,15 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | Documentation | <a href="https://docs.snap.com/lens-studio/home">Documentation for Snapchat's Lens Studio</a>|
 | Additional Resource | <a href="https://arbootcamp.com/">Extra Content for Meta Spark Studio & Lens Studio</a>|
 
+# 📈 Resources To Grow As a Developer
+| Topic | Resources |
+| ------- | -------|
+| Version Control Systems with Git and Github | <a href="https://youtu.be/RGOj5yH7evk">Git and Github for Beginners - FreeCodeCamp</a>, <a href="https://youtu.be/_ewoEQFEURg">Git & Github for Unity Engine - Infallible Code</a>|
+| C# Coding Style Guide | <a href="https://google.github.io/styleguide/csharp-style.html">C# Coding Style Guide by Google</a>, <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">C# Coding Convention by Microsoft</a>|
+| SOLID Principles | <a href="https://www.interviewbit.com/blog/solid-principles-in-c-sharp/">SOLID Principles with C# by InterviewBit</a>, <a href="https://www.educative.io/blog/solid-principles-oop-c-sharp">SOLID Principles in C# by Educative</a>|
+| Design Patterns | <a href="https://refactoring.guru/design-patterns">Design Patterns by Refactoring Guru</a>, <a href="https://gameprogrammingpatterns.com/contents.html">Game Design Patterns</a>|
+| Code Refactoring | <a href="https://refactoring.guru/refactoring">Code Refactoring by Refactoring Guru</a> |
+
 # ⛵ Resources To Download Assets
 ## 3D Models
 * Sketchfab: https://sketchfab.com/feed
