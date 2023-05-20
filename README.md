@@ -20,7 +20,7 @@
 # Extended Reality Roadmap - Augmented Reality
 * Extended Reality is a vast domain of immersive and spatial computing and can get really hard to find the best resources for learning Extended Reality. This repository compiles the best possible resources on XR out there, this is a very detailed and comprehensive roadmap with loads of amazing resources to learn from.
 
-* It contains the best resources to learn Augmented Reality, Virtual Reality and Mixed Reality from scratch along with all the necessary tools such as Blender, Unity Engine, Vuforia, Spark AR, Lens Studio, AR Core and AR Foundation.
+* It contains the best resources to learn Augmented Reality, Virtual Reality and Mixed Reality from scratch along with all the necessary tools such as Unity Engine, Vuforia, Spark AR, Lens Studio, AR Core and AR Foundation.
 
 * This roadmap is designed in such a way that anyone who doesn't have any experience with developing softwares can start developing Augmented Reality, Virtual Reality and Mixed Reality applications without any extra hassle.
 
@@ -191,3 +191,13 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * HDR Maps:https://hdrmaps.com/freebies/
 * 3DArt: https://www.3dart.it/en/download/hdri/
 * Blockade Labs: https://skybox.blockadelabs.com/
+
+# 🤔 What's Coming Next?
+This repository is a work in progress, we will be adding more topics in the future, you can check out the following topics which we will be adding in the future:-
+
+- Comprehensive Roadmap for Virtual Reality
+- Comprehensive Roadmap for Mixed Reality
+- Detailed Guide on Building Job Oriented Resume
+- Detailed Project Guides for Extended Reality
+- Detailed Guide to Cracking Interviews
+- Loads Of Free Courses
