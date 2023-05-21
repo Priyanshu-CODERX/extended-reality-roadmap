@@ -195,9 +195,9 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 # 🤔 What's Coming Next?
 This repository is continuously evolving, with ongoing work to expand its content. We have exciting plans to introduce additional topics in the future. Stay tuned as we enrich the repository with a wider range of subjects.
 
-✅ Comprehensive Roadmap for Virtual Reality
-✅ Comprehensive Roadmap for Mixed Reality
-✅ Detailed Guide on Building Job Oriented Resume
-✅ Detailed Project Guides for Extended Reality
-✅ Detailed Guide to Cracking Interviews
-✅ Loads Of Free Courses
+- ✅ Comprehensive Roadmap for Virtual Reality
+- ✅ Comprehensive Roadmap for Mixed Reality
+- ✅ Detailed Guide on Building Job Oriented Resume
+- ✅ Detailed Project Guides for Extended Reality
+- ✅ Detailed Guide to Cracking Interviews
+- ✅ Loads Of Free Courses
