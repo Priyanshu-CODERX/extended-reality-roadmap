@@ -89,7 +89,7 @@ Now that we have completed the prerequisites, it's time to dive into the excitin
 | UX Design Principles of ARCore| <a href="https://developers.google.com/ar/designfundamentals">User Experience Design Guidelines for Augmented Reality</a>|
 | Setup AR Foundation and AR Core | <a href="https://learn.unity.com/tutorial/setting-up-ar-foundation#">Setup AR Foundation and AR Core for Markerless Augmented Reality Development with Unity Engine</a> |
 
-To ensure a smooth build process for AR Core applications in Unity Engine, it is recommended to use the IL2CPP scripting backend instead of Mono. Additionally, make sure to enable ARM64 support for supporting 64Bit Architecture for your target platform. This will help avoid any potential errors during the build process.
+<b>Developer Tip 3 ⚒️: </b>To ensure a smooth build process for AR Core applications in Unity Engine, it is recommended to use the IL2CPP scripting backend instead of Mono. Additionally, make sure to enable ARM64 support for supporting 64Bit Architecture for your target platform. This will help avoid any potential errors during the build process.
 
 | Topic | Resources |
 | ------- | -------|
@@ -132,7 +132,7 @@ Instagram's AR effects, also known as "Spark AR effects," can be created using M
 Snapchat, on the other hand, has been a pioneer in AR technology, with its lenses and filters being some of the most well-known examples of Social AR Experiences. These AR effects are created using Snapchat's Lens Studio, which allows developers to build custom AR experiences that users can interact with through the app's camera feature.
 
 Overall, Instagram and Snapchat's integration of Social AR Experiences into their platforms has created a new form of social interaction that enables users to engage with each other in fun and immersive ways.
-## Meta Spark Studio
+## 🥸 Meta Spark Studio
 | Course Level | Resources |
 | ------- | -------|
 | Beginner | <a href="https://metaspark.facebookblueprint.com/student/collection/290354-quick-start?sid_i=0">Quick Start Course for Meta Spark Studio</a>|
@@ -140,7 +140,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 | Advanced | <a href="https://metaspark.facebookblueprint.com/student/collection/291404-ar-pro?sid_i=2">Advanced Concepts of Meta Spark Studio</a>|
 | Documentation | <a href="https://sparkar.facebook.com/ar-studio/learn/">Documentation for Meta Spark Studio</a>|
 
-## Snapchat's Lens Studio
+## 🥸 Snapchat's Lens Studio
 | Course Level | Resources |
 | ------- | -------|
 | Beginner | <a href="https://ar.snap.com/beginners-course">Quick Start Course for Snapchat Lens Studio</a>|
@@ -193,11 +193,11 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * Blockade Labs: https://skybox.blockadelabs.com/
 
 # 🤔 What's Coming Next?
-This repository is a work in progress, we will be adding more topics in the future, you can check out the following topics which we will be adding in the future:-
+This repository is continuously evolving, with ongoing work to expand its content. We have exciting plans to introduce additional topics in the future. Stay tuned as we enrich the repository with a wider range of subjects.
 
-- Comprehensive Roadmap for Virtual Reality
-- Comprehensive Roadmap for Mixed Reality
-- Detailed Guide on Building Job Oriented Resume
-- Detailed Project Guides for Extended Reality
-- Detailed Guide to Cracking Interviews
-- Loads Of Free Courses
+- ✅ Comprehensive Roadmap for Virtual Reality
+- ✅ Comprehensive Roadmap for Mixed Reality
+- ✅ Detailed Guide on Building Job Oriented Resume
+- ✅ Detailed Project Guides for Extended Reality
+- ✅ Detailed Guide to Cracking Interviews
+- ✅ Loads Of Free Courses
