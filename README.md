@@ -32,15 +32,15 @@
 
 I have categorized the resources into different levels of learning and have included the best resources for each topic.
 
-- **Fundamentals of Programming with C#**
-- **Fundamentals of Unity Engine**
-- **Fundamentals of Extended Reality and Best Practices**
-- **Building Markerbased Augmented Reality with Vuforia Engine**
-- **Building Markerless Augmented Reality with AR Foundation**
-- **Building Augmented Reality Experiences with Lightship ARDK**
-- **Building Social AR Experiences**
-- **Resources To Grow As A Developer**
-- **Resources To Download Assets**
+- ✅ **Fundamentals of Programming with C#**
+- ✅ **Fundamentals of Unity Engine**
+- ✅ **Fundamentals of Extended Reality and Best Practices**
+- ✅ **Building Markerbased Augmented Reality with Vuforia Engine**
+- ✅ **Building Markerless Augmented Reality with AR Foundation**
+- ✅ **Building Augmented Reality Experiences with Lightship ARDK**
+- ✅ **Building Social AR Experiences**
+- ✅ **Resources To Grow As A Developer**
+- ✅ **Resources To Download Assets**
 
 # 📝 Prerequisites For The Roadmap
 | Topic      | Resources |
