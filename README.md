@@ -161,36 +161,36 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 
 # ⛵ Resources To Download Assets
 ## 🧑‍🚀 3D Models
-* Sketchfab: https://sketchfab.com/feed
-* Turbosquid: https://www.turbosquid.com/
-* Free3D: https://free3d.com/
-* ReadyPlayerMe: https://readyplayer.me/
-* Smithsonian X3D:https://3d.si.edu/
-* Nasa 3D Resources:https://nasa3d.arc.nasa.gov/
-* Adobe Mixamo:https://www.mixamo.com/ 
-* 3Delicious:https://3delicious.net/ 
-* RenderHub:https://www.renderhub.com/
-* OpenGameArt:https://opengameart.org/ 
-* Archive3D:https://archive3d.net/ 
-* Unity Asset Store:https://assetstore.unity.com/ 
-* Autodesk Online Gallery:https://gallery.autodesk.com/
-* 3D Warehouse: https://3dwarehouse.sketchup.com/
+* 🌟 Sketchfab: https://sketchfab.com/feed
+* 🌟 Turbosquid: https://www.turbosquid.com/
+* 🌟 Free3D: https://free3d.com/
+* 🌟 ReadyPlayerMe: https://readyplayer.me/
+* 🌟 Smithsonian X3D: https://3d.si.edu/
+* 🌟 Nasa 3D Resources: https://nasa3d.arc.nasa.gov/
+* 🌟 Adobe Mixamo: https://www.mixamo.com/ 
+* 🌟 3Delicious: https://3delicious.net/ 
+* 🌟 RenderHub: https://www.renderhub.com/
+* 🌟 OpenGameArt: https://opengameart.org/ 
+* 🌟 Archive3D: https://archive3d.net/ 
+* 🌟 Unity Asset Store: https://assetstore.unity.com/ 
+* 🌟 Autodesk Online Gallery: https://gallery.autodesk.com/
+* 🌟 3D Warehouse: https://3dwarehouse.sketchup.com/
 
 ## ❄️ Textures
-* 3D Texture:https://3dtextures.me/ 
-* Textures: https://www.textures.com/
-* Poliigon: https://www.poliigon.com/
-* AmbientCG: https://ambientcg.com/list
-* FreePBR: https://freepbr.com/
-* ShareTextures: https://www.sharetextures.com/textures
-* CGBookcase: https://www.cgbookcase.com/
-* Archinspirations: https://www.archinspirations.com/materials
+* 🌟 3D Texture: https://3dtextures.me/ 
+* 🌟 Textures: https://www.textures.com/
+* 🌟 Poliigon: https://www.poliigon.com/
+* 🌟 AmbientCG: https://ambientcg.com/list
+* 🌟 FreePBR: https://freepbr.com/
+* 🌟 ShareTextures: https://www.sharetextures.com/textures
+* 🌟 CGBookcase: https://www.cgbookcase.com/
+* 🌟 Archinspirations: https://www.archinspirations.com/materials
 
 ## 🌏 HDRI
-* Poly Haven:https://polyhaven.com/hdris 
-* HDR Maps:https://hdrmaps.com/freebies/
-* 3DArt: https://www.3dart.it/en/download/hdri/
-* Blockade Labs: https://skybox.blockadelabs.com/
+* 🌟 Poly Haven: https://polyhaven.com/hdris 
+* 🌟 HDR Maps: https://hdrmaps.com/freebies/
+* 🌟 3DArt: https://www.3dart.it/en/download/hdri/
+* 🌟 Blockade Labs: https://skybox.blockadelabs.com/
 
 # 🤔 What's Coming Next?
 This repository is continuously evolving, with ongoing work to expand its content. We have exciting plans to introduce additional topics in the future. Stay tuned as we enrich the repository with a wider range of subjects.
