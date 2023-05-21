@@ -105,7 +105,7 @@ Now that we have completed the prerequisites, it's time to dive into the excitin
 <b>Learning Tip 2 ⚒️: </b>A great way to learn about tools and mechanisms is to build micro-projects yourself. It's recommended for everyone to try this approach as it offers a hands-on learning experience. By working on small projects, you can gain a better understanding of how these tools and mechanisms work and improve your skills.
 
 # 🖥️ Level Four: Building AR Experiences with Lightship ARDK
-As you progress to Level Four, it is important to have sufficient experience with C# as the concepts and implementations you encounter may become more complex. However, do not worry as long as you carefully follow the documentation, which provides guidance on Lightship ARDK, you will gain a better understanding.
+<b>Learning Tip 3 ⚒️: </b>As you progress to Level Four, it is important to have sufficient experience with C# as the concepts and implementations you encounter may become more complex. However, do not worry as long as you carefully follow the documentation, which provides guidance on Lightship ARDK, you will gain a better understanding.
 
 | Topic | Resources |
 | ------- | -------|
