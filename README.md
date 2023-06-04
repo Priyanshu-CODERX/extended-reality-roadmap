@@ -175,6 +175,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * 🌟 Unity Asset Store: https://assetstore.unity.com/ 
 * 🌟 Autodesk Online Gallery: https://gallery.autodesk.com/
 * 🌟 3D Warehouse: https://3dwarehouse.sketchup.com/
+* 🌟 Kenny: https://kenney.nl/
 
 ## ❄️ Textures
 * 🌟 3D Texture: https://3dtextures.me/ 
@@ -185,6 +186,7 @@ Overall, Instagram and Snapchat's integration of Social AR Experiences into thei
 * 🌟 ShareTextures: https://www.sharetextures.com/textures
 * 🌟 CGBookcase: https://www.cgbookcase.com/
 * 🌟 Archinspirations: https://www.archinspirations.com/materials
+* 🌟 Kenny: https://kenney.nl/
 
 ## 🌏 HDRI
 * 🌟 Poly Haven: https://polyhaven.com/hdris 
